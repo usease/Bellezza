@@ -67,6 +67,9 @@ public class AddNewProductActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_new_product);
 
+        int random_int = 0;
+        random_int = random_int+15;
+
         mToolbar = (Toolbar) findViewById(R.id.add_new_product_app_bar);
         setSupportActionBar(mToolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
