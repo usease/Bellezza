@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_new"
+            android:icon="@mipmap/add_icon"
+            android:title="@string/admin_menu_add_new" />
+        <item
+            android:id="@+id/nav_view_orders"
+            android:icon="@mipmap/orders_icon"
+            android:title="@string/admin_menu_orders" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@mipmap/logout_icon"
+            android:title="@string/admin_menu_logout" />
+    </group>
+
+</menu>

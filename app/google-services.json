@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981572810707",
+    "firebase_url": "https://bellezza-f4f88.firebaseio.com",
+    "project_id": "bellezza-f4f88",
+    "storage_bucket": "bellezza-f4f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981572810707:android:ea534b6679cfe836",
+        "android_client_info": {
+          "package_name": "com.example.usease.bellezza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981572810707-dffrc3m5fbnum03ql3j31s42842vt3f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usease.bellezza",
+            "certificate_hash": "29603abd4d251be6e753a3b61fbff851435f0ee9"
+          }
+        },
+        {
+          "client_id": "981572810707-q71s42hiaiki9er009o59alinpiu89nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kykJBKObFyACWghzGynzJcXABJl9SZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981572810707-q71s42hiaiki9er009o59alinpiu89nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

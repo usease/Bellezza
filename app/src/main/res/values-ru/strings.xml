@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Bellezza</string>
+
+    <string name="price">Цена:</string>
+    <string name="available">Доступно:</string>
+    <string name="email">Адрес электронной почты ...</string>
+    <string name="phone_number">Номер телефона...</string>
+    <string name="specify_quantity">Укажите количество, которое вы хотите приобрести:</string>
+    <string name="enter_quantity">Введите количество ...</string>
+    <string name="add_to_cart_warning_message">Пожалуйста, убедитесь, что вы правильно заполнили поля электронной почты или номера телефона или имя пользователя Telegram. В противном случае мы не сможем связаться с вами и соответствующим образом выполнить ваш заказ.</string>
+    <string name="add_cart_success_message">Этот продукт был добавлен в вашу корзину.</string>
+    <string name="add_to_cart">Добавить в Корзину</string>
+    <string name="phone_or_email_provided">Пожалуйста, убедитесь, что вы предоставили либо электронную почту, либо номер телефона, либо имя пользователя Telegram, чтобы мы могли связаться с вами.</string>
+    <string name="description">Описание:</string>
+    <string name="specifications">Характеристики:</string>
+    <string name="additional_information">Дополнительная Информация:</string>
+    <string name="add_new_product">Новый Продукт</string>
+    <string name="product_name">Название продукта...</string>
+    <string name="product_desc">Описание продукта...</string>
+    <string name="enter_price">Цена (в $)...</string>
+    <string name="enter_available">Доступно...</string>
+    <string name="enter_specs">Спецификации продукта ...</string>
+    <string name="enter_additional_information">Дополнительную информацию ...</string>
+    <string name="error_message_for_add_new_product">Название Продукта, Описание, Цена, Спецификация и Основное Изображение не могут быть пустыми. Пожалуйста, убедитесь, что вы заполнили эти поля.</string>
+    <string name="select_main_image">Основное Изображение:</string>
+    <string name="admin_menu_add_new">Новый Продукт</string>
+    <string name="admin_menu_orders">Посмотреть заказы</string>
+    <string name="admin_menu_logout">Выйти</string>
+    <string name="my_cart">Моя корзина</string>
+    <string name="login">Вход для Админа</string>
+    <string name="title_activity_login">Войти в Систему</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Эл. адрес</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."
+    </string>
+    <string name="ordering">Заказ...</string>
+    <string name="processing_order">Ваш заказ создается.</string>
+    <string name="posted">Опубликовано:</string>
+    <string name="quantity">Количество:</string>
+    <string name="total">Всего:</string>
+    <string name="added_product_successfully">Новый продукт был успешно добавлен.</string>
+    <string name="product_name_warning">Название Продукта</string>
+    <string name="product_desc_warning">Описание Продукта</string>
+    <string name="product_spec_warning">Спецификация</string>
+    <string name="product_price_warning">Цена</string>
+    <string name="main_image_warning">Основное Изображение</string>
+    <string name="cant_be_empty">не может(могут) быть пустым(и). </string>
+    <string name="delete_order">Удаление Заказа</string>
+    <string name="sure_to_delete_order">Вы действительно хотите удалить этот заказ?</string>
+    <string name="order_deleted">Ваш заказ удален.</string>
+        <string name="loading">Загружается...</string>
+    <string name="loading_products">Пожалуйста, подождите. Данные продукта извлекаются. </string>
+    <string name="main_image_pick">Добавить основное изображение ...</string>
+    <string name="image1_pick_hint">Добавить первое изображение ...</string>
+    <string name="image2_click_hint">Добавить второе изображение..</string>
+    <string name="image3_pick_hint">Добавить третье изображение ...</string>
+    <string name="password">Пароль..</string>
+    <string name="enter_email">Эл. адрес...</string>
+    <string name="admin_login">Вход для Админа</string>
+    <string name="email_or_password_empty">Поля электронной почты или пароль не должны быть пустыми. Пожалуйста, заполните их, чтобы продолжить.</string>
+    <string name="beauty_conquers_all">Красота побеждает всех.</string>
+        <string name="coming_soon">Скоро...</string>
+    <string name="navigation_drawer_open">Открыть навигационный ящик</string>
+    <string name="navigation_drawer_close">Закрыть навигационный ящик</string>
+    <string name="language">Язык</string>
+    <string name="orders">Заказы</string>
+    <string name="phone">Номер Телефона:</string>
+    <string name="product_name_order">Продукт:</string>
+    <string name="order_date">Заказан:</string>
+    <string name="email_single_order">Эл. адрес:</string>
+    <string name="not_provided">Не предоставлен.</string>
+    <string name="unknown">Неизвестный</string>
+    <string name="no_more_orders_to_load">Не осталось заказы для загрузки.</string>
+    <string name="no_more_products_to_load">Не осталось продукты для загрузки.</string>
+    <string name="my_wishlist">Избранное</string>
+    <string name="about_us">О нас</string>
+    <string name="removed_from_wishlist">Этот продукт удален из вашего списка пожеланий.</string>
+    <string name="added_to_wishlist">Этот продукт был добавлен в ваш список пожеланий.</string>
+
+    <string name="title_activity_about_us">AboutUsActivity</string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+    <string name="all_products">Все Продукты</string>
+    <string name="new_products">Новые Продукты</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="wishlist_empty">В вашем списке сейчас нет предметов.</string>
+    <string name="cart_empty">Ваша корзина на данный момент пуста.</string>
+    <string name="orders_empty">Заказов еще не сделано.</string>
+    <string name="products_empty">Пока еще не добавлено продуктов.</string>
+    <string name="empty_new_products">Новые продукты еще не добавлены.</string>
+    <string name="telegram_username">Имя пользователя Telegram ...</string>
+    <string name="telegram">Telegram:</string>
+    <string name="updated_successfully">Продукт успешно обновлен.</string>
+    <string name="edit_product">Изменить Продукт</string>
+    <string name="select_image">Выберите Изображение</string>
+    <string name="product_deleted">Продукт удален.</string>
+    <string name="deleted_product">Удалить Продукт.</string>
+    <string name="sure_to_delete_product">Удаление продукта навсегда удаляет этот продукт из облачного хранилища. Примечание: Любые заказы, сделанные для этого продукта, также будут удалены. Вы уверены?</string>
+    <string name="orders_deleted_as_well">Заказы, сделанные для этого продукта, были обнаружены и удалены.</string>
+
+</resources>
